@@ -13,7 +13,7 @@ This project simulates property ownership and acquisition management using a blo
 
 - **Solidity:** Smart contracts for property ownership management.
 - **ReactJS:** Frontend interface for users to interact with the blockchain network.
-- **IPC Interplanetary Consensus is a framework that enables on-demand horizontal scalability of networks, by deploying "subnets" running different consensus algorithms depending on the application's requirement
+- **IPC Interplanetary Consensus:** is a framework that enables on-demand horizontal scalability of networks, by deploying "subnets" running different consensus algorithms depending on the application's requirement
 
 ## Installation
 
